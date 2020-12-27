@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+M:\UserRegistrationSystemCrud\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\78999215.index
+\UserRegistrationSystem\src

@@ -1,0 +1,5 @@
+package com.javacodes.usersystem.bean;
+
+public class User {
+
+}

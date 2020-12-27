@@ -1,0 +1,5 @@
+package com.javacodes.usersystem.web;
+
+public @interface WebServlet {
+
+}

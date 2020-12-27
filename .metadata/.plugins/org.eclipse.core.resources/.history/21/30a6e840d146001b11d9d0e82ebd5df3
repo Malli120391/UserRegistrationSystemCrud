@@ -1,0 +1,10 @@
+package com.javacodes.usersystem.dao;
+
+public class UserDao {
+	
+	private String jdbcUrl="jdbc:mysql://localhost:3306/usersystem";
+	private String username="root";
+	private String userpassword="root";
+	private String jdbcdriver="com.mysql.cj.jdbc.Driver";
+
+}

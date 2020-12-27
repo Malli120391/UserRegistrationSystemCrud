@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+M:\UserRegistrationSystemCrud\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+78999215.index
+2793248232.index
+736996681.index
+3374019820.index
+78999215.index
+3153894494.index
+4106524572.index
+2027854982.index
